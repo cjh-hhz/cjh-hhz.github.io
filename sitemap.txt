@@ -6,5 +6,5 @@ https://cjh-hhz.github.io/categories/index.html
 https://cjh-hhz.github.io/tags/index.html
 https://cjh-hhz.github.io/
 https://cjh-hhz.github.io/tags/OI/
-https://cjh-hhz.github.io/tags/OI-math/
+https://cjh-hhz.github.io/tags/math/
 https://cjh-hhz.github.io/categories/Study/
