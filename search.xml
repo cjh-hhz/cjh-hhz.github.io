@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Study_lists</title>
+      <link href="/2022/05/31/study-tasks/"/>
+      <url>/2022/05/31/study-tasks/</url>
+      
+        <content type="html"><![CDATA[<h2 id="算法竞赛进阶指南刷题汇总"><a class="markdownIt-Anchor" href="#算法竞赛进阶指南刷题汇总"></a> 《算法竞赛进阶指南》刷题汇总</h2><p><a href="https://www.acwing.com/activity/content/6/">位置acwing</a><br />不定期更新</p><h2 id="now"><a class="markdownIt-Anchor" href="#now"></a> NOW</h2><pre><code>数学(练习)：0/17</code></pre><h2 id="completed"><a class="markdownIt-Anchor" href="#completed"></a> COMPLETED</h2><pre><code>基本算法(例题)：完成(22)基本算法(练习)：完成(12)基本数据结构(例题)：完成(23)基本数据结构(练习)：完成(14)</code></pre><h2 id="鸽子"><a class="markdownIt-Anchor" href="#鸽子"></a> 鸽子</h2><pre><code>搜索(例题+练习)BSGS(高次同余)数学(例题)：23/24：博弈论(可能鸽的比较久)</code></pre><h1 id="怎么还不去摆烂"><a class="markdownIt-Anchor" href="#怎么还不去摆烂"></a> 怎么还不去摆烂</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> Study </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> OI </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>莫比乌斯反演</title>
       <link href="/2022/05/26/%E8%8E%AB%E6%AF%94%E4%B9%8C%E6%96%AF%E5%8F%8D%E6%BC%94/"/>
       <url>/2022/05/26/%E8%8E%AB%E6%AF%94%E4%B9%8C%E6%96%AF%E5%8F%8D%E6%BC%94/</url>
