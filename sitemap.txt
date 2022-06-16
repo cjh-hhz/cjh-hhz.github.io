@@ -1,3 +1,4 @@
+https://cjh-hhz.github.io/2022/06/15/%E9%9D%9E%E6%97%8Btreap/
 https://cjh-hhz.github.io/2022/05/31/study-tasks/
 https://cjh-hhz.github.io/2022/06/07/BZOJ2115-XOR/
 https://cjh-hhz.github.io/2022/06/03/atcoder-abc246ex/
@@ -18,5 +19,6 @@ https://cjh-hhz.github.io/tags/matrix/
 https://cjh-hhz.github.io/tags/DP/
 https://cjh-hhz.github.io/tags/comb/
 https://cjh-hhz.github.io/tags/string/
+https://cjh-hhz.github.io/tags/Data-Structure/
 https://cjh-hhz.github.io/categories/Study/
 https://cjh-hhz.github.io/categories/Solution/
