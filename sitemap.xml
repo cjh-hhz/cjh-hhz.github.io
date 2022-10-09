@@ -215,13 +215,6 @@
   </url>
   
   <url>
-    <loc>https://cjh-hhz.github.io/tags/probability/</loc>
-    <lastmod>2022-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://cjh-hhz.github.io/tags/DP/</loc>
     <lastmod>2022-10-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -230,6 +223,13 @@
   
   <url>
     <loc>https://cjh-hhz.github.io/tags/Data-Structure/</loc>
+    <lastmod>2022-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cjh-hhz.github.io/tags/probability/</loc>
     <lastmod>2022-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
