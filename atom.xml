@@ -6,7 +6,7 @@
   <link href="https://cjh-hhz.github.io/atom.xml" rel="self"/>
   
   <link href="https://cjh-hhz.github.io/"/>
-  <updated>2022-12-21T15:43:39.116Z</updated>
+  <updated>2023-01-17T14:12:52.283Z</updated>
   <id>https://cjh-hhz.github.io/</id>
   
   <author>
@@ -21,16 +21,17 @@
     <link href="https://cjh-hhz.github.io/e3c104052dc3.html/"/>
     <id>https://cjh-hhz.github.io/e3c104052dc3.html/</id>
     <published>2022-12-21T15:37:09.000Z</published>
-    <updated>2022-12-21T15:43:39.116Z</updated>
+    <updated>2023-01-17T14:12:52.283Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="各种套路总结不定期更新"><a class="markdownIt-Anchor" href="#各种套路总结不定期更新"></a> 各种套路总结(不定期更新)</h2><ul><li>排列有关数数，有时顺序枚举数字插入很难转移，如果要求相对关系，尝试每次从未插入数字中随机选数插在末尾。<a href="https://atcoder.jp/contests/abc282/tasks/abc282_g">[Similar Permutation]</a> <a href="https://atcoder.jp/contests/abc282/submissions/37431507">[code]</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="各种套路总结不定期更新"><a class="markdownIt-Anchor" href="#各种套路总结不定期更新"></a> 各种套路总结(不定期更新)</h2><ul><li><p>排列有关数数，有时顺序枚举数字插入很难转移，如果要求相对关系，尝试每次从未插入数字中随机选数插在末尾。<a href="https://atcoder.jp/contests/abc282/tasks/abc282_g">[Similar Permutation]</a></p></li><li><p>网格图上 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>1</mn><mo>×</mo><mn>2</mn></mrow><annotation encoding="application/x-tex">1\times2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span></span></span></span> 的长方形的长边平移及定点旋转相当于空位移动，且在对图黑白染色后空位的颜色不变，且黑白构成二分图。<a href="https://codeforces.com/contest/1753/problem/D">[The Beach]</a>(本题还能理解为二分图扩大匹配，是个费用流问题)</p></li><li><p>不连续子序列操作尝试转化为连续子段操作。<a href="https://codeforces.com/contest/1775/problem/E">[The Human Equation]</a></p></li><li><p>如果若干个点因某条性质连成团，可以新建虚点减少连变量。<a href="https://codeforces.com/contest/1775/problem/D">[Friendly Spiders]</a></p></li></ul>]]></content>
     
     
       
       
     <summary type="html">&lt;h2 id=&quot;各种套路总结不定期更新&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#各种套路总结不定期更新&quot;&gt;&lt;/a&gt; 各种套路总结(不定期更新)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;排列有关数数，有时顺序枚举数字插入很难转移，如果要求相对关系，尝试每次从未</summary>
+&lt;li&gt;
+&lt;p&gt;排列有关数数，有时顺序枚举数字插入很难转移，如果要求相对关系，尝试</summary>
       
     
     
